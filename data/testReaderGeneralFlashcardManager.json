@@ -1,0 +1,34 @@
+{
+    "name": "My work room",
+    "decks": [
+        {
+            "cards": [
+                {
+                    "incorrectTimes": 0,
+                    "correctTimes": 0,
+                    "question": "Q1",
+                    "answer": "A1",
+                    "mastery": false
+                },
+                {
+                    "incorrectTimes": 0,
+                    "correctTimes": 0,
+                    "question": "Q2",
+                    "answer": "A2",
+                    "mastery": false
+                }
+            ],
+            "subject": "BIOL"
+        },
+        {
+            "cards": [{
+                "incorrectTimes": 0,
+                "correctTimes": 0,
+                "question": "Q1",
+                "answer": "A1",
+                "mastery": false
+            }],
+            "subject": "CHEM"
+        }
+    ]
+}
